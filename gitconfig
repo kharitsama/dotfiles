@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thehappylifer@gmail.com
+	name = Mame Fatou Seye
